@@ -8,9 +8,8 @@ function agregarAmigo() {
         alert('Por favor, escribe el nombre del jugador.');
         return;
     }
-    //Si el nombre tiene un espacio al inicio o al final, no 
-
-        if (nombre && !amigos.includes(nombre)) {
+        if (nombre && !amigos.includes(nombre)) { // Verifica que no esté vacío y no se repita
+            // Agrega el nombre a la lista
             amigos.push(nombre);
             mostrarAmigos();
             input.value = '';
