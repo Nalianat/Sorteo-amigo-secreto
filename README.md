@@ -12,7 +12,7 @@
 * [Funcionalidades del proyecto](#Funcionalidades-del-proyecto)
 * [Acceso al proyecto](#acceso-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Conclusión](#conclusión)
+* [Propósito del proyecto](#Propósito-del-proyecto)
 
 
 ## Descripción del proyecto
@@ -40,15 +40,16 @@ El usuario puede:
 
 - Se utiliza **Math.random() y Math.floor()** para generar índices aleatorios.
 
-## Acceso al proyecto:
-
-
-
 ### Interfaz dinámica:
 
 - Uso de **innerHTML** para mostrar resultados y actualizar la lista de participantes en tiempo real.
 
 - Mensajes de validación y alertas para guiar al usuario.
+
+## Acceso al proyecto:
+
+[Link directo para ingresar al juego]_(https://nalianat.github.io/Sorteo-amigo-secreto/)
+
 
 ## Tecnologías utilizadas
 
