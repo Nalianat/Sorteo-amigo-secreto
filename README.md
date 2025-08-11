@@ -62,5 +62,12 @@ El usuario puede:
 ## Propósito del proyecto
 Facilitar la organización del juego Amigo Secreto de manera rápida, divertida y sin necesidad de papel o sorteos manuales, ideal para reuniones familiares, de amigos o de trabajo.
 
+## Desarrolladores del proyecto
+
+| [Natalia Murillo](https://github.com/Nalianat) |
+
+
+
+
 
 
